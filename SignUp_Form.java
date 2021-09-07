@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author BUTT SYSTEMS
+ * @author IQRA SARWAR
  */
 public class SignUp_Form extends javax.swing.JFrame {
 
